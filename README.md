@@ -77,12 +77,15 @@ cette fonction permet à l'aide du fichier ``requirements.txt`` d'installer tout
 > **Cette fonction est un peu particulière appellée sans paramètre, elle permet d'afficher un listing complet des modules (cogs) du bot comme le montre cette image :**
   
 <img src="https://cdn.discordapp.com/attachments/837802340802625536/948704537349357609/HELP0.png" width="50%">
+
 > **En revanche c'est également une fonction qui prend des paramètres, les noms des cogs seront toujours affiché avec une majuscule, et les fonctions toujours en miniscules. Donc si je veux savoir les fonctions qui sont contenue dans le modules ``Help`` ou bien ``CogSetupLog`` il me suffit de les appeler comme ci dessous :**
 
 <img src="https://cdn.discordapp.com/attachments/837802340802625536/948705559882891304/Help.png" width="50%">
+
 > **De cette même manière je peux savoir pour les fonctions, afin de connaître leurs syntaxe, si c'est une fonction qui s'utilise avec ou sans paramètres :**
 
 <img src="https://cdn.discordapp.com/attachments/837802340802625536/948704205349195786/Help2.png" width="50%">
+
 #### listing
 > **Cette fonctions permet simplement de faire une liste de toute les fonctions du bot sans infos supplémentaire.**
 > Ne prend aucun paramètre et aucune permissions sont requise.
